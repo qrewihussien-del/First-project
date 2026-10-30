@@ -1,0 +1,30 @@
+## [Visual Studio and .NET Core / Framework Gitignore]
+
+# Outputs
+[Bb]in/
+[Oo]bj/
+out/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE dirs
+.vs/
+.vscode/
+.idea/
+
+# Preferences & Caches
+*.userprefs
+*.pidb
+*.glo
+*.csproj.user
+
+# Logs
+*.log
+
+# Packages
+packages/
+!packages/repositories.config
